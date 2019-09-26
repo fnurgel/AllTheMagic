@@ -524,6 +524,60 @@
     },
     {
       "initialBlock" : {
+        "blockName": "mysticalagriculture:copper_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock" : {
+        "blockName": "mysticalagriculture:aluminum_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock" : {
+        "blockName": "mysticalagriculture:bronze_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock" : {
+        "blockName": "mysticalagriculture:electrum_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock" : {
+        "blockName": "mysticalagriculture:lead_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock" : {
+        "blockName": "mysticalagriculture:nickel_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock" : {
+        "blockName": "mysticalagriculture:silver_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock" : {
+        "blockName": "mysticalagriculture:tin_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock" : {
+        "blockName": "mysticalagriculture:menril_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock" : {
         "blockName": "mysticalagriculture:iron_crop",
         "meta": 7
       }
