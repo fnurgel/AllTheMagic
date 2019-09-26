@@ -140,7 +140,8 @@ val blockLiquids as ILiquidStack[IItemStack] = {
     <ore:blockAlubrass>.firstItem : <liquid:alubrass> * 1296,
     <ore:blockFiery>.firstItem : <liquid:fierymetal> * 1296,
     <ore:blockKnightmetal>.firstItem : <liquid:knightmetal> * 1296,
-    <ore:blockAstralStarmetal>.firstItem : <liquid:starmetal> * 1296
+    <ore:blockAstralStarmetal>.firstItem : <liquid:starmetal> * 1296,
+    <minecraft:obsidian> : <liquid:obsidian> * 288
 };
 
 for block, liquid in blockLiquids {
